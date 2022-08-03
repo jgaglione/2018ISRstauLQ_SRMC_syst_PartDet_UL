@@ -7,7 +7,8 @@ useSystematics 1
 Tau_weight_Normal    0	
 Tau_weight_Up	     0
 Tau_weight_Down      0		
-
+Pileup_weight_Up     0
+Pileup_weight_Down   0
 MetUncl_Up           0
 MetUncl_Down         0
 Jet_Res_Up           0
